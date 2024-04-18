@@ -1,17 +1,16 @@
 import React from 'react'
 import { useContext } from 'react'
 import { AppContext } from './Context'
-import { NavLink } from 'react-router-dom'
 
 export const Search = () => {
     const {query,setQuery,isError}=useContext(AppContext)
   return (
     <section>
-  <NavLink to="/">
+  
         <div className="cinematrix-name">
           Cinematrix
         </div>
-      </NavLink>
+      
 
 
         <form action="#" onSubmit={(e)=>e.preventDefault()}>
