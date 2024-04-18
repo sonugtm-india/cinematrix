@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cinematrix/static/css/main.aa27e28f.css",
+    "main.js": "/cinematrix/static/js/main.3ba9b83d.js",
+    "static/js/453.82b25e4b.chunk.js": "/cinematrix/static/js/453.82b25e4b.chunk.js",
+    "index.html": "/cinematrix/index.html",
+    "main.aa27e28f.css.map": "/cinematrix/static/css/main.aa27e28f.css.map",
+    "main.3ba9b83d.js.map": "/cinematrix/static/js/main.3ba9b83d.js.map",
+    "453.82b25e4b.chunk.js.map": "/cinematrix/static/js/453.82b25e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa27e28f.css",
+    "static/js/main.3ba9b83d.js"
+  ]
+}
